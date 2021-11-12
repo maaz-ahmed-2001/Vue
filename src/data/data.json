@@ -1,0 +1,405 @@
+[
+    {
+        "id": 1,
+        "location": {
+            "id": 1,
+            "city": "Costa Rica",
+            "country": "Testing",
+            "best_sellers": true,
+            "top_destination": true,
+            "destination_description": "Testing",
+            "images": [
+                {
+                    "id": 1,
+                    "image": "https://spacespot.s3.amazonaws.com/media/destination_images/download_2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a4731c3667b520aaebd71f7317374c653707156c73e7b0fe6eb254916db38387",
+                    "location": 1
+                }
+            ],
+            "average_cost": [
+                {
+                    "location_id": 1,
+                    "avg_cost": 900.0
+                }
+            ]
+        },
+        "package": {
+            "id": 1,
+            "package_name": "Chill Trip",
+            "package_description": "Testing",
+            "package_images": "https://spacespot.s3.amazonaws.com/media/package_images/download.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=1878640071f343586633c77955bd4ab0ca21e018ea46c48b1b736f4134cca472",
+            "activities_allowed": 2
+        },
+        "activity": [
+            {
+                "id": 5,
+                "activity": "Testing3",
+                "image": "https://spacespot.s3.amazonaws.com/images.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7210fd68324ba30e734bae00fb063eb42898d959864aeb116dd6f6dcfee63a77",
+                "category": "Testing Category"
+            },
+            {
+                "id": 7,
+                "activity": "Testing5",
+                "image": "https://spacespot.s3.amazonaws.com/download_5bBPhWK.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b80eb6f1a6863338c4970b4eb6a4610fce022dff7ffd3b040cd663c5aae40ebd",
+                "category": "New Category"
+            }
+        ],
+        "cost": 900,
+        "no_of_days": 0
+    },
+    {
+        "id": 2,
+        "location": {
+            "id": 2,
+            "city": "Bora Bora",
+            "country": "Testing",
+            "best_sellers": true,
+            "top_destination": true,
+            "destination_description": "Test",
+            "images": [
+                {
+                    "id": 2,
+                    "image": "https://spacespot.s3.amazonaws.com/media/destination_images/download_3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7fe23f9e03ebf74df176a1f11aeb34f136a384c6e3a36d711fe285eaf15bebbf",
+                    "location": 2
+                },
+                {
+                    "id": 3,
+                    "image": "https://spacespot.s3.amazonaws.com/media/destination_images/download_3_0KgQuIY.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a058968f2f441473b6836e67ba9fc90f9262c78a545810a0a31a0f202d7a6950",
+                    "location": 2
+                }
+            ],
+            "average_cost": [
+                {
+                    "location_id": 2,
+                    "avg_cost": 1400.0
+                }
+            ]
+        },
+        "package": {
+            "id": 2,
+            "package_name": "Spacespot Explorer",
+            "package_description": "Testing",
+            "package_images": "https://spacespot.s3.amazonaws.com/media/package_images/download_X7eBzor.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=341dd639df82994fc64dc933950c67045ad96225000efaa0955ed74ae8b2c39c",
+            "activities_allowed": -1
+        },
+        "activity": [
+            {
+                "id": 4,
+                "activity": "Testing2",
+                "image": "https://spacespot.s3.amazonaws.com/download_1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f7e8635c72aaa8dcd72d7d3b75a02000c2483a990f1fa430d74d0e958353b9ad",
+                "category": "Testing Category"
+            }
+        ],
+        "cost": 1900,
+        "no_of_days": 0
+    },
+    {
+        "id": 3,
+        "location": {
+            "id": 6,
+            "city": "Montreal",
+            "country": "Testing",
+            "best_sellers": true,
+            "top_destination": true,
+            "destination_description": "Testing",
+            "images": [
+                {
+                    "id": 7,
+                    "image": "https://spacespot.s3.amazonaws.com/media/destination_images/download_7.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=4a39550a72d43f3898bda9b14847531b18664fa2f53c928e5c3bec2b50c095a8",
+                    "location": 6
+                }
+            ],
+            "average_cost": [
+                {
+                    "location_id": 6,
+                    "avg_cost": 900.0
+                }
+            ]
+        },
+        "package": {
+            "id": 2,
+            "package_name": "Spacespot Explorer",
+            "package_description": "Testing",
+            "package_images": "https://spacespot.s3.amazonaws.com/media/package_images/download_X7eBzor.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=341dd639df82994fc64dc933950c67045ad96225000efaa0955ed74ae8b2c39c",
+            "activities_allowed": -1
+        },
+        "activity": [
+            {
+                "id": 6,
+                "activity": "Testing4",
+                "image": "https://spacespot.s3.amazonaws.com/photo-1551632811-561732d1e306_TQ2jruX.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8461cfc8394aedbdd56c54736757484127700d9d3c702096c5e1586de66814ac",
+                "category": "Testing Category"
+            }
+        ],
+        "cost": 900,
+        "no_of_days": 0
+    },
+    {
+        "id": 4,
+        "location": {
+            "id": 4,
+            "city": "Sydney",
+            "country": "Testing",
+            "best_sellers": true,
+            "top_destination": true,
+            "destination_description": "Testing",
+            "images": [
+                {
+                    "id": 5,
+                    "image": "https://spacespot.s3.amazonaws.com/media/destination_images/download_5.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f2454cd8d68cef88ebee412e74fc0a89d77a5248319d8f2399f47f7b11fd9ea7",
+                    "location": 4
+                }
+            ],
+            "average_cost": [
+                {
+                    "location_id": 4,
+                    "avg_cost": 900.0
+                }
+            ]
+        },
+        "package": {
+            "id": 1,
+            "package_name": "Chill Trip",
+            "package_description": "Testing",
+            "package_images": "https://spacespot.s3.amazonaws.com/media/package_images/download.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=1878640071f343586633c77955bd4ab0ca21e018ea46c48b1b736f4134cca472",
+            "activities_allowed": 2
+        },
+        "activity": [
+            {
+                "id": 6,
+                "activity": "Testing4",
+                "image": "https://spacespot.s3.amazonaws.com/photo-1551632811-561732d1e306_TQ2jruX.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8461cfc8394aedbdd56c54736757484127700d9d3c702096c5e1586de66814ac",
+                "category": "Testing Category"
+            }
+        ],
+        "cost": 900,
+        "no_of_days": 0
+    },
+    {
+        "id": 5,
+        "location": {
+            "id": 5,
+            "city": "Auckland",
+            "country": "Testing",
+            "best_sellers": true,
+            "top_destination": true,
+            "destination_description": "Testing",
+            "images": [
+                {
+                    "id": 6,
+                    "image": "https://spacespot.s3.amazonaws.com/media/destination_images/download_6.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=c5693a8cd593337154f515af3391be1a7b381154b430719fe377a4ce786d136b",
+                    "location": 5
+                }
+            ],
+            "average_cost": [
+                {
+                    "location_id": 5,
+                    "avg_cost": 900.0
+                }
+            ]
+        },
+        "package": {
+            "id": 2,
+            "package_name": "Spacespot Explorer",
+            "package_description": "Testing",
+            "package_images": "https://spacespot.s3.amazonaws.com/media/package_images/download_X7eBzor.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=341dd639df82994fc64dc933950c67045ad96225000efaa0955ed74ae8b2c39c",
+            "activities_allowed": -1
+        },
+        "activity": [
+            {
+                "id": 2,
+                "activity": "Skating",
+                "image": "https://spacespot.s3.amazonaws.com/gettyimages-885411578-612x612.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=cb65f848e09deebbdcf46d07dd41cc9331e16c36fa169e5f2e1276509109d9ba",
+                "category": "Testing Category"
+            }
+        ],
+        "cost": 900,
+        "no_of_days": 0
+    },
+    {
+        "id": 6,
+        "location": {
+            "id": 7,
+            "city": "Peru",
+            "country": "Testing",
+            "best_sellers": true,
+            "top_destination": true,
+            "destination_description": "Testing",
+            "images": [
+                {
+                    "id": 8,
+                    "image": "https://spacespot.s3.amazonaws.com/media/destination_images/download_8.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=abfdc0d9928b5fa300daeb3cdc63a3f58742a8fea38f18c876259b18b889ce2e",
+                    "location": 7
+                }
+            ],
+            "average_cost": [
+                {
+                    "location_id": 7,
+                    "avg_cost": 1200.0
+                }
+            ]
+        },
+        "package": {
+            "id": 2,
+            "package_name": "Spacespot Explorer",
+            "package_description": "Testing",
+            "package_images": "https://spacespot.s3.amazonaws.com/media/package_images/download_X7eBzor.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=341dd639df82994fc64dc933950c67045ad96225000efaa0955ed74ae8b2c39c",
+            "activities_allowed": -1
+        },
+        "activity": [
+            {
+                "id": 6,
+                "activity": "Testing4",
+                "image": "https://spacespot.s3.amazonaws.com/photo-1551632811-561732d1e306_TQ2jruX.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=8461cfc8394aedbdd56c54736757484127700d9d3c702096c5e1586de66814ac",
+                "category": "Testing Category"
+            }
+        ],
+        "cost": 1200,
+        "no_of_days": 0
+    },
+    {
+        "id": 7,
+        "location": {
+            "id": 3,
+            "city": "Greece",
+            "country": "Testing",
+            "best_sellers": true,
+            "top_destination": true,
+            "destination_description": "Testing",
+            "images": [
+                {
+                    "id": 4,
+                    "image": "https://spacespot.s3.amazonaws.com/media/destination_images/download_4.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=813b11c01c1b3526158e47a788a340e0c72c34fd11c85f2168d419c4e9e4915b",
+                    "location": 3
+                }
+            ],
+            "average_cost": [
+                {
+                    "location_id": 3,
+                    "avg_cost": 900.0
+                }
+            ]
+        },
+        "package": {
+            "id": 2,
+            "package_name": "Spacespot Explorer",
+            "package_description": "Testing",
+            "package_images": "https://spacespot.s3.amazonaws.com/media/package_images/download_X7eBzor.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=341dd639df82994fc64dc933950c67045ad96225000efaa0955ed74ae8b2c39c",
+            "activities_allowed": -1
+        },
+        "activity": [
+            {
+                "id": 5,
+                "activity": "Testing3",
+                "image": "https://spacespot.s3.amazonaws.com/images.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7210fd68324ba30e734bae00fb063eb42898d959864aeb116dd6f6dcfee63a77",
+                "category": "Testing Category"
+            }
+        ],
+        "cost": 900,
+        "no_of_days": 0
+    },
+    {
+        "id": 8,
+        "location": {
+            "id": 1,
+            "city": "Costa Rica",
+            "country": "Testing",
+            "best_sellers": true,
+            "top_destination": true,
+            "destination_description": "Testing",
+            "images": [
+                {
+                    "id": 1,
+                    "image": "https://spacespot.s3.amazonaws.com/media/destination_images/download_2.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a4731c3667b520aaebd71f7317374c653707156c73e7b0fe6eb254916db38387",
+                    "location": 1
+                }
+            ],
+            "average_cost": [
+                {
+                    "location_id": 1,
+                    "avg_cost": 900.0
+                }
+            ]
+        },
+        "package": {
+            "id": 2,
+            "package_name": "Spacespot Explorer",
+            "package_description": "Testing",
+            "package_images": "https://spacespot.s3.amazonaws.com/media/package_images/download_X7eBzor.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=341dd639df82994fc64dc933950c67045ad96225000efaa0955ed74ae8b2c39c",
+            "activities_allowed": -1
+        },
+        "activity": [
+            {
+                "id": 4,
+                "activity": "Testing2",
+                "image": "https://spacespot.s3.amazonaws.com/download_1.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=f7e8635c72aaa8dcd72d7d3b75a02000c2483a990f1fa430d74d0e958353b9ad",
+                "category": "Testing Category"
+            }
+        ],
+        "cost": 900,
+        "no_of_days": 0
+    },
+    {
+        "id": 9,
+        "location": {
+            "id": 2,
+            "city": "Bora Bora",
+            "country": "Testing",
+            "best_sellers": true,
+            "top_destination": true,
+            "destination_description": "Test",
+            "images": [
+                {
+                    "id": 2,
+                    "image": "https://spacespot.s3.amazonaws.com/media/destination_images/download_3.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7fe23f9e03ebf74df176a1f11aeb34f136a384c6e3a36d711fe285eaf15bebbf",
+                    "location": 2
+                },
+                {
+                    "id": 3,
+                    "image": "https://spacespot.s3.amazonaws.com/media/destination_images/download_3_0KgQuIY.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=a058968f2f441473b6836e67ba9fc90f9262c78a545810a0a31a0f202d7a6950",
+                    "location": 2
+                }
+            ],
+            "average_cost": [
+                {
+                    "location_id": 2,
+                    "avg_cost": 1400.0
+                }
+            ]
+        },
+        "package": {
+            "id": 1,
+            "package_name": "Chill Trip",
+            "package_description": "Testing",
+            "package_images": "https://spacespot.s3.amazonaws.com/media/package_images/download.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=1878640071f343586633c77955bd4ab0ca21e018ea46c48b1b736f4134cca472",
+            "activities_allowed": 2
+        },
+        "activity": [
+            {
+                "id": 2,
+                "activity": "Skating",
+                "image": "https://spacespot.s3.amazonaws.com/gettyimages-885411578-612x612.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=cb65f848e09deebbdcf46d07dd41cc9331e16c36fa169e5f2e1276509109d9ba",
+                "category": "Testing Category"
+            },
+            {
+                "id": 3,
+                "activity": "Testing1",
+                "image": "https://spacespot.s3.amazonaws.com/download.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=638516265b854401cf823fb9f98bd0fd72db779fb6dcdfac76847ec735e3cb0c",
+                "category": "Testing Category"
+            },
+            {
+                "id": 5,
+                "activity": "Testing3",
+                "image": "https://spacespot.s3.amazonaws.com/images.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=7210fd68324ba30e734bae00fb063eb42898d959864aeb116dd6f6dcfee63a77",
+                "category": "Testing Category"
+            },
+            {
+                "id": 7,
+                "activity": "Testing5",
+                "image": "https://spacespot.s3.amazonaws.com/download_5bBPhWK.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA4PF3GLASJ4OGSKVX%2F20211101%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20211101T173655Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=b80eb6f1a6863338c4970b4eb6a4610fce022dff7ffd3b040cd663c5aae40ebd",
+                "category": "New Category"
+            }
+        ],
+        "cost": 900,
+        "no_of_days": 0
+    }
+]
